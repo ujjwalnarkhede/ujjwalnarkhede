@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**ujjwalnarkhede/ujjwalnarkhede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 👀 I’m interested in Learning new Technology<br>🌱 I’m currently Pursuing BCA<br>📫 How to reach me:- ujjwalnarkhede2003@gmail.com
 
